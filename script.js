@@ -18,7 +18,7 @@ const favoriteColor = (prompt("Domanda di sicurezza: Qual è il tuo colore prefe
 
 const password = 21;
 
-let userInfo = firstName + lastName + favoriteColor;
+const userInfo = firstName + lastName + favoriteColor;
 
 
 console.log("userInfo");
